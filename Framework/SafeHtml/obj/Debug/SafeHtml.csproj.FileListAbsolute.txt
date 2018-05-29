@@ -1,0 +1,6 @@
+C:\portal\Portals\Framework\SafeHtml\bin\Debug\osafehtm.dll
+C:\portal\Portals\Framework\SafeHtml\bin\Debug\SafeHtml.dll
+C:\portal\Portals\Framework\SafeHtml\bin\Debug\SafeHtml.pdb
+C:\portal\Portals\Framework\SafeHtml\obj\Debug\SafeHtml.dll
+C:\portal\Portals\Framework\SafeHtml\obj\Debug\SafeHtml.pdb
+C:\portal\Portals\Framework\SafeHtml\obj\Debug\SafeHtml.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\portal\Portals\Framework\Microsoft.Xrm.Portal.Files\bin\Debug\Microsoft.Xrm.Portal.Files.dll
+C:\portal\Portals\Framework\Microsoft.Xrm.Portal.Files\obj\Debug\Microsoft.Xrm.Portal.Files.dll

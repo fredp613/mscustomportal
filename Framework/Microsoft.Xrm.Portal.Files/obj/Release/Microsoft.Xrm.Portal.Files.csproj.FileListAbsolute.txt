@@ -1,0 +1,4 @@
+C:\portal\Portals\Framework\Microsoft.Xrm.Portal.Files\bin\Release\Microsoft.Xrm.Portal.Files.dll
+C:\portal\Portals\Framework\Microsoft.Xrm.Portal.Files\bin\Release\Microsoft.Xrm.Portal.Files.pdb
+C:\portal\Portals\Framework\Microsoft.Xrm.Portal.Files\obj\Release\Microsoft.Xrm.Portal.Files.dll
+C:\portal\Portals\Framework\Microsoft.Xrm.Portal.Files\obj\Release\Microsoft.Xrm.Portal.Files.pdb
